@@ -16,7 +16,7 @@ By Di Wang, Jinyuan Liu, Long Ma, Risheng Liu, and Xin Fan
 </div>
 
 ## Updates  
-[2023-08-25] Our paper is available online! [[arXiv version](https://arxiv.org/pdf/2205.11876.pdf)]  
+[2023-08-25] Our paper is available online! [[arXiv version]( )]  
 
 
 ## Requirements
@@ -50,3 +50,27 @@ In 'Trainer/train_reg.py', deformable infrared images are generated in real time
        python test_reg.py
    
   Please download the [pretrained model]() (code: ) of the registration network MPDR.
+  
+2. If you tend to train Registration and Fusion subnetworks separately, You can run following commands:      
+
+    ```python
+       cd ./Trainer
+       python train_reg.py
+
+       cd ./Trainer
+       python train_co_fuse.py
+  The corresponding test code 'test_reg.py' and 'test_fuse.py' can be found in 'Test' folder. Please download the [pretrained model]() (code: ) of fusion subnetwork TCF.
+
+3. If you tend to train Registration and Fusion subnetworks jointly, You can run following command: 
+   ```python
+       cd ./Trainer
+       python train_reg_co_fusion_sa.py
+
+  The corresponding test code 'test_reg_fusion.py' can be found in 'Test' folder. 
+
+## Dataset
+Please download the following datasets:
+*   [RoadScene](https://github.com/hanna-xu/RoadScene)
+*   [TNO](http://figshare.com/articles/TNO\_Image\_Fusion\_Dataset/1008029)
+
+## Experimental Results
