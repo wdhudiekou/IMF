@@ -108,7 +108,12 @@ Please download the following datasets:
 *  [TNO](https://pan.baidu.com/s/1n3TZjDZffr0vNOUsFU0wkw ) (code: y29p)
 *  [M3FD](https://pan.baidu.com/s/1OLzvgP9UE_IMKBAZLPOFIg ) (code: 2x64)
 
-
+<div align=center>
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Fusion.png" width="98%">
+</div>
+<div align=center>
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Fus.png" width="98%">
+</div>
 
 ## Citation
 ```
