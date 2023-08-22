@@ -96,10 +96,10 @@ Please download the following datasets:
 *  [M3FD](https://pan.baidu.com/s/1djvhlCBjWHX4Q80ZKO38FA ) (code: 7812)
 *  [MSIFT](https://pan.baidu.com/s/1QxqkUoD7xoHiaevnCiRwvQ ) (code: ahfs)
 
-<div align=center>
+<div align=left>
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Reg.png" width="70%">
 </div>
-<div align=center>
+<div align=left>
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Reg.png" width="70%">
 </div>
 
@@ -111,7 +111,7 @@ Please download the following datasets:
 <div align=left>
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Fusion.png" width="70%">
 </div>
-<div align=center>
+<div align=left>
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Fus.png" width="70%">
 </div>
 
