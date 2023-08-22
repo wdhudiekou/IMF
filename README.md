@@ -96,7 +96,26 @@ Please download the following datasets:
 *  [M3FD](https://pan.baidu.com/s/1djvhlCBjWHX4Q80ZKO38FA ) (code: 7812)
 *  [MSIFT](https://pan.baidu.com/s/1QxqkUoD7xoHiaevnCiRwvQ ) (code: ahfs)
 
+<div align=center>
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Reg.png" width="98%">
+</div>
+<div align=center>
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Reg.png" width="98%">
+</div>
+
 2. Please download the <b> Fusion </b> results by our IMFusion:
 *  [RoadScene](https://pan.baidu.com/s/1XPUYGDWSK95NwnA9qmFCJA ) (code: 5rbw)
 *  [TNO](https://pan.baidu.com/s/1n3TZjDZffr0vNOUsFU0wkw ) (code: y29p)
 *  [M3FD](https://pan.baidu.com/s/1OLzvgP9UE_IMKBAZLPOFIg ) (code: 2x64)
+
+
+
+## Citation
+```
+@InProceedings{Wang_2023_IMF,
+	author = {Di, Wang and Jinyuan, Liu and Long Ma, and Risheng Liu, and Xin, Fan},
+	title = {Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration},
+	booktitle = {Arxiv},
+	year = {2023}
+}
+```
