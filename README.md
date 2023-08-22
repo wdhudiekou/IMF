@@ -12,7 +12,7 @@ By Di Wang, Jinyuan Liu, Long Ma, Risheng Liu, and Xin Fan
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/network.png" width="90%">
 </div>
 <div align=center>
-<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/MPDR.png" width="90%">
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/MPDR-TCF.png" width="90%">
 </div>
 
 ## Updates  
