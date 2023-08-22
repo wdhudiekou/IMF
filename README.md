@@ -90,3 +90,13 @@ Please download the following datasets:
 *   [M3FD](https://pan.baidu.com/s/194WV0_G5B8Y2ORlwMqD6xQ) (code: 0rd4)
 
 ## Experimental Results
+1. Please download the <b> Registration</b> results by our IMFusion:
+*  [RoadScene](https://pan.baidu.com/s/1ntxhecwXJhD2Yc82d5caOw ) (code: pv7s)
+*  [TNO](https://pan.baidu.com/s/13LUuUkmUulbbpHbsmm60sw ) (code: yyf8)
+*  [M3FD](https://pan.baidu.com/s/1djvhlCBjWHX4Q80ZKO38FA ) (code: 7812)
+*  [MSIFT](https://pan.baidu.com/s/1QxqkUoD7xoHiaevnCiRwvQ ) (code: ahfs)
+
+2. Please download the <b> Fusion </b> results by our IMFusion:
+*  [RoadScene](https://pan.baidu.com/s/1XPUYGDWSK95NwnA9qmFCJA ) (code: 5rbw)
+*  [TNO](https://pan.baidu.com/s/1n3TZjDZffr0vNOUsFU0wkw ) (code: y29p)
+*  [M3FD](https://pan.baidu.com/s/1OLzvgP9UE_IMKBAZLPOFIg ) (code: 2x64)
