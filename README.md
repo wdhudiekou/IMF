@@ -97,10 +97,10 @@ Please download the following datasets:
 *  [MSIFT](https://pan.baidu.com/s/1QxqkUoD7xoHiaevnCiRwvQ ) (code: ahfs)
 
 <div align=center>
-<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Reg.png" width="98%">
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Reg.png" width="70%">
 </div>
 <div align=center>
-<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Reg.png" width="98%">
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Reg.png" width="70%">
 </div>
 
 2. Please download the <b> Fusion </b> results by our IMFusion:
@@ -109,10 +109,10 @@ Please download the following datasets:
 *  [M3FD](https://pan.baidu.com/s/1OLzvgP9UE_IMKBAZLPOFIg ) (code: 2x64)
 
 <div align=center>
-<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Fusion.png" width="98%">
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Fusion.png" width="70%">
 </div>
 <div align=center>
-<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Fus.png" width="98%">
+<img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Fus.png" width="70%">
 </div>
 
 ## Citation
