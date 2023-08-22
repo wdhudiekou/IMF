@@ -72,5 +72,21 @@ In 'Trainer/train_reg.py', deformable infrared images are generated in real time
 Please download the following datasets:
 *   [RoadScene](https://github.com/hanna-xu/RoadScene)
 *   [TNO](http://figshare.com/articles/TNO\_Image\_Fusion\_Dataset/1008029)
+*   [M3FD](https://github.com/JinyuanLiu-CV/TarDAL)
+*   [MSIFT](https://ivrlwww.epfl.ch/supplementary_material/cvpr11/index.html)
+
+<b>Note: The above datasets are manually pre-registered. Desired misaligned data can be generated using the proposed data synthesis method.</b>
+
+## Pretrained Models
+1. Pretrained models of registration subnetwork MPDR are as follows:
+*   [RoadScene](https://github.com/hanna-xu/RoadScene)
+*   [TNO](http://figshare.com/articles/TNO\_Image\_Fusion\_Dataset/1008029)
+*   [M3FD](https://github.com/JinyuanLiu-CV/TarDAL)
+*   [MSIFT](https://ivrlwww.epfl.ch/supplementary_material/cvpr11/index.html)
+
+2. Pretrained models of fusion subnetwork TCF are as follows:
+*   [RoadScene](https://github.com/hanna-xu/RoadScene)
+*   [TNO](http://figshare.com/articles/TNO\_Image\_Fusion\_Dataset/1008029)
+*   [M3FD](https://github.com/JinyuanLiu-CV/TarDAL)
 
 ## Experimental Results
