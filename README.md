@@ -48,8 +48,6 @@ In 'Trainer/train_reg.py', deformable infrared images are generated in real time
 
        cd ./Test
        python test_reg.py
-   
-  Please download the [pretrained model]() (code: ) of the registration network MPDR.
   
 2. If you tend to train Registration and Fusion subnetworks separately, You can run following commands:      
 
@@ -59,14 +57,14 @@ In 'Trainer/train_reg.py', deformable infrared images are generated in real time
 
        cd ./Trainer
        python train_co_fuse.py
-  The corresponding test code 'test_reg.py' and 'test_fuse.py' can be found in 'Test' folder. Please download the [pretrained model]() (code: ) of fusion subnetwork TCF.
+  The corresponding test code 'test_reg.py' and 'test_co_fuse.py' can be found in 'Test' folder.
 
 3. If you tend to train Registration and Fusion subnetworks jointly, You can run following command: 
    ```python
        cd ./Trainer
        python train_reg_co_fusion_sa.py
 
-  The corresponding test code 'test_reg_fusion.py' can be found in 'Test' folder. 
+  The corresponding test code 'test_reg_co_fusion.py' can be found in 'Test' folder. 
 
 ## Dataset
 Please download the following datasets:
@@ -78,19 +76,19 @@ Please download the following datasets:
 <b>Note: The above datasets are manually pre-registered. Desired misaligned image can be generated using the proposed image synthesis method.</b>
 
 ## Pretrained Models
-1. Pretrained models of registration subnetwork MPDR are as follows:
+1. Pretrained models of registration subnetwork <b> MPDR </b> are as follows:
 *   [RoadScene](https://pan.baidu.com/s/1HIqDsxBJFVASRXfTrdcp-w) (code: wyi0)
 *   [TNO](https://pan.baidu.com/s/1wBfJec-ryY2h2bmjxmTrfg) (code: qul9)
 *   [M3FD](https://pan.baidu.com/s/1OUJIYyH5SEY-RO5VU-beQg) (code: uq0b)
 *   [MSIFT](https://pan.baidu.com/s/1GVohJKukbtck_Tvzqi8K_Q) (code: 410b)
 
-2. Pretrained models of fusion subnetwork TCF are as follows:
+2. Pretrained models of fusion subnetwork <b> TCF </b> are as follows:
 *   [RoadScene](https://pan.baidu.com/s/1KqJJhYDYqHTE-dP8UlGPyg) (code: nju6)
 *   [TNO](https://pan.baidu.com/s/1nsz2rkaJ15HAZzdjZEvEZQ) (code: rqmx)
 *   [M3FD](https://pan.baidu.com/s/194WV0_G5B8Y2ORlwMqD6xQ) (code: 0rd4)
 
 ## Experimental Results
-1. Please download the <b> Registration</b> results by our IMFusion:
+1. Please download the <b> Registration</b> results by our <b> IMFusion </b>:
 *  [RoadScene](https://pan.baidu.com/s/1ntxhecwXJhD2Yc82d5caOw ) (code: pv7s)
 *  [TNO](https://pan.baidu.com/s/13LUuUkmUulbbpHbsmm60sw ) (code: yyf8)
 *  [M3FD](https://pan.baidu.com/s/1djvhlCBjWHX4Q80ZKO38FA ) (code: 7812)
@@ -103,7 +101,7 @@ Please download the following datasets:
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Reg.png" width="70%">
 </div>
 
-2. Please download the <b> Fusion </b> results by our IMFusion:
+2. Please download the <b> Fusion </b> results by our <b> IMFusion </b>:
 *  [RoadScene](https://pan.baidu.com/s/1XPUYGDWSK95NwnA9qmFCJA ) (code: 5rbw)
 *  [TNO](https://pan.baidu.com/s/1n3TZjDZffr0vNOUsFU0wkw ) (code: y29p)
 *  [M3FD](https://pan.baidu.com/s/1OLzvgP9UE_IMKBAZLPOFIg ) (code: 2x64)
@@ -117,10 +115,12 @@ Please download the following datasets:
 
 ## Citation
 ```
-@InProceedings{Wang_2023_IMF,
-	author = {Di, Wang and Jinyuan, Liu and Long Ma, and Risheng Liu, and Xin, Fan},
-	title = {Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration},
-	booktitle = {Arxiv},
-	year = {2023}
+@misc{wang2023improving,
+      title={Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration}, 
+      author={Di Wang and Jinyuan Liu and Long Ma and Risheng Liu and Xin Fan},
+      year={2023},
+      eprint={2308.11165},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
