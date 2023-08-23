@@ -1,0 +1,1 @@
+Put infrared and visible images in this folder.
