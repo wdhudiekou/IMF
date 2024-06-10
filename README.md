@@ -6,7 +6,7 @@
 
 ### Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration [IEEE TCSVT2024]
 
-By Di Wang, Jinyuan Liu, Long Ma, Risheng Liu, and Xin Fan
+By Di Wang, Jinyuan Liu, Long Ma, Risheng Liu, and Xin Fan*
 
 <div align=center>
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/network.png" width="95%">
