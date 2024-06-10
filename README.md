@@ -17,6 +17,7 @@ By Di Wang, Jinyuan Liu, Long Ma, Risheng Liu, and Xin Fan
 
 ## Updates  
 [2024-06-08] Our paper is accepted to IEEE TCSVT ! 
+
 [2023-08-25] Our paper is available online! [[arXiv version](https://arxiv.org/pdf/2308.11165.pdf)]  
 
 
@@ -119,7 +120,7 @@ Please download the following datasets:
 @misc{wang2023improving,
       title={Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration}, 
       author={Di Wang and Jinyuan Liu and Long Ma and Risheng Liu and Xin Fan},
-      journal      = {{IEEE} Transactions on Circuits and Systems for Video Technology},
+      journal={{IEEE} Transactions on Circuits and Systems for Video Technology},
       year={2024}
 }
 ```
