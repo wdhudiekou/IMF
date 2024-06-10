@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.6.0-%237732a8)](https://pytorch.org/)
 
-### Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration [Under Review]
+### Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration [IEEE TCSVT2024]
 
 By Di Wang, Jinyuan Liu, Long Ma, Risheng Liu, and Xin Fan
 
