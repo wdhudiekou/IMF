@@ -121,9 +121,9 @@ Please download the following datasets:
 
 ## Citation
 ```
-@misc{wang2023improving,
-      title={Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration}, 
+@article{Wang_2023_IMF,
       author={Di Wang and Jinyuan Liu and Long Ma and Risheng Liu and Xin Fan},
+      title={Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration}, 
       journal={{IEEE} Transactions on Circuits and Systems for Video Technology},
       year={2024}
 }

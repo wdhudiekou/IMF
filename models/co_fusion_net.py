@@ -235,7 +235,7 @@ class DualAttention(nn.Module):
         self.conv1x1 = nn.Conv2d(n_feat * 2, n_feat, kernel_size=1, bias=bias)
 
     def forward(self, x):
-        res = self.body(x)
+        res = x
         sa_branch = self.SA(res)
         ca_branch = self.CA(res)
         res = torch.cat([sa_branch, ca_branch], dim=1)
