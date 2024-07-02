@@ -115,6 +115,10 @@ Please download the following datasets:
 <img src="https://github.com/wdhudiekou/IMFusion/blob/master/Fig/Visual_Fus.png" width="90%">
 </div>
 
+## Related Projects
+
+[UMF](https://github.com/wdhudiekou/UMF-CMGR) (Published in IJCAI 2022!)
+
 ## Citation
 ```
 @misc{wang2023improving,
